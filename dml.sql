@@ -56,7 +56,7 @@ INSERT INTO PLAYER (franchise_player_id,name,skill,position,team) VALUES
 	('1872615551','Imran Tahir',7,'bowler','Super Kings'),
 	('1872334242','K.Sharma',9,'bowler','Super Kings'),
 	
-	('1872334233','Ambati Rayudu',9,'Batsman','Super Kings
+	('1872334233','Ambati Rayudu',9,'Batsman','Super Kings);
 
 
 

@@ -1,5 +1,4 @@
 create database IPL_TOURNAMENT;
-\c ipl_tournament
 
 
 
